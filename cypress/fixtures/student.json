@@ -1,0 +1,83 @@
+[
+    {
+        "Nume": "Nohai",
+        "Prenume": "Dragos Ionut",
+        "Numar_matricol": "26937",
+        "Lucrare_licenta": "Analiza comparativa tool-uri testare",
+        "Linia_de_predare": "ROMÂNĂ",
+        "Forma_de_invatamant": "Învățământ cu frecvență",
+        "Profesor_coordonator": "Jecan"
+    },
+    {
+        "Nume": "Bilici ",
+        "Prenume": "Miodrag",
+        "Numar_matricol": "26721",
+        "Lucrare_licenta": "Aplicatie WEB .NET",
+        "Linia_de_predare": "ROMÂNĂ",
+        "Forma_de_invatamant": "Învățământ cu frecvență",
+        "Profesor_coordonator": "Covaci"
+    },
+    {
+        "Nume": "Barna",
+        "Prenume": "Valentina",
+        "Numar_matricol": "26123",
+        "Lucrare_licenta": "Aplicatie WEB  ",
+        "Linia_de_predare": "ROMÂNĂ",
+        "Forma_de_invatamant": "Învățământ cu frecvență",
+        "Profesor_coordonator": "Ciaca"
+    },
+    {
+        "Nume": "Mot",
+        "Prenume": "Carina",
+        "Numar_matricol": "26212",
+        "Lucrare_licenta": "Joc mobil UNITY",
+        "Linia_de_predare": "ROMÂNĂ",
+        "Forma_de_invatamant": "Învățământ cu frecvență",
+        "Profesor_coordonator": "Ciaca"
+    },
+    {
+        "Nume": "Timis",
+        "Prenume": "Constantin",
+        "Numar_matricol": "25121",
+        "Lucrare_licenta": "Aplicatie mobila XAMARIN",
+        "Linia_de_predare": "ROMÂNĂ",
+        "Forma_de_invatamant": "Învățământ cu frecvență",
+        "Profesor_coordonator": "Jecan"
+    },
+    {
+        "Nume": "Chis",
+        "Prenume": "Andrei",
+        "Numar_matricol": "24121",
+        "Lucrare_licenta": "Proiect cercetare",
+        "Linia_de_predare": "ROMÂNĂ",
+        "Forma_de_invatamant": "Învățământ cu frecvență",
+        "Profesor_coordonator": "Buchmann"
+    },
+    {
+        "Nume": "Tofan",
+        "Prenume": "Stefan",
+        "Numar_matricol": "21623",
+        "Lucrare_licenta": "Aplicatie WEB PHP",
+        "Linia_de_predare": "ROMÂNĂ",
+        "Forma_de_invatamant": "Învățământ cu frecvență",
+        "Profesor_coordonator": "Stanca"
+    },
+    {
+        "Nume": "Lorincz",
+        "Prenume": "Laurentiu",
+        "Numar_matricol": "24299",
+        "Lucrare_licenta": "Aplicatie Springboot",
+        "Linia_de_predare": "ROMÂNĂ",
+        "Forma_de_invatamant": "Învățământ cu frecvență",
+        "Profesor_coordonator": "Silaghi"
+    },
+    {
+        "Nume": "Popp",
+        "Prenume": "Roxana",
+        "Numar_matricol": "26621",
+        "Lucrare_licenta": "Aplicatie WEB .NET",
+        "Linia_de_predare": "ROMÂNĂ",
+        "Forma_de_invatamant": "Învățământ cu frecvență",
+        "Profesor_coordonator": "Covaci"
+    }
+]

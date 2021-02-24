@@ -1,0 +1,50 @@
+[
+    {
+        "Program": "Contabilitate si Informatica de Gestiune",
+        "Departament": "Contabilitate"
+    },
+    {
+        "Program": "Accounting and Organizations",
+        "Departament": "Contabilitate"
+    },
+    {
+        "Program": "Auditul si Managementul Financiar al Fondurile Europene",
+        "Departament": "Contabilitate"
+    },
+    {
+        "Program": "Managament Contabil, Audit si Control",
+        "Departament": "Contabilitate"
+    },
+    {
+        "Program": "Finante si banci",
+        "Departament": "Finante"
+    },
+    {
+        "Program": "Fiscalitate",
+        "Departament": "Finante"
+    },
+    {
+        "Program": "Economie si afaceri internationale",
+        "Departament": "Economie politica"
+    },
+    {
+        "Program": "Economie generala",
+        "Departament": "Economie politica"
+    },
+    {
+        "Program": "Informatica Economica",
+        "Departament": "Informatica Economica"
+    },
+    {
+        "Program": "Sisteme de Asistare a Deciziilor Economice",
+        "Departament": "Informatica Economica"
+    },
+    {
+        "Program": "E-Business",
+        "Departament": "Informatica Economica"
+    },
+    {
+        "Program": "Business Modelling and Distributed Computing",
+        "Departament": "Informatica Economica"
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "Nume": "Bologa",
+        "Prenume": "Cristian",
+        "Titlu": "Lect.univ.dr",
+        "Email": "cristian.bologa@econ.ubbcluj.ro",
+        "Birou": "436",
+        "Departament": "Informatica Economica"
+    },
+    {
+        "Nume": "Mican",
+        "Prenume": "Daniel",
+        "Titlu": "Lect.univ.dr",
+        "Email": "daniel.mican@econ.ubbcluj.ro",
+        "Birou": "432",
+        "Departament": "Informatica Economica"
+    },
+    {
+        "Nume": "Stan",
+        "Prenume": "Alexandru",
+        "Titlu": "Lect.univ.dr",
+        "Email": "alexandru.stan@econ.ubbcluj.ro",
+        "Birou": "432",
+        "Departament": "Informatica Economica"
+    },
+    {
+        "Nume": "Buchmann",
+        "Prenume": "Robert",
+        "Titlu": "Prof.univ.dr",
+        "Email": "robert.buchmann@econ.ubbcluj.ro",
+        "Birou": "s431",
+        "Departament": "Informatica Economica"
+    },
+    {
+        "Nume": "Silaghi",
+        "Prenume": "Gheorghe Cosmin",
+        "Titlu": "Prof.univ.dr",
+        "Email": "gheorghe.silaghi@econ.ubbcluj.ro",
+        "Birou": "431",
+        "Departament": "Informatica Economica"
+    },
+    {
+        "Nume": "Ciaca",
+        "Prenume": "Monica",
+        "Titlu": "Conf.univ.dr",
+        "Email": "monica.ciaca@econ.ubbcluj.ro",
+        "Birou": "451",
+        "Departament": "Informatica Economica"
+    },
+    {
+        "Nume": "Jecan",
+        "Prenume": "Sergiu",
+        "Titlu": "Conf.univ.dr",
+        "Email": "sergiu.jecan@econ.ubbcluj.ro",
+        "Birou": "411",
+        "Departament": "Informatica Economica"
+    },
+    {
+        "Nume": "Filip",
+        "Prenume": "Crina Ioana",
+        "Titlu": "Conf.univ.dr",
+        "Email": "crina.filip@econ.ubbcluj.ro",
+        "Birou": "226",
+        "Departament": "Contabilitate"
+    },
+    {
+        "Nume": "Cardos",
+        "Prenume": "Vasile Daniel",
+        "Titlu": "Lect.univ.dr",
+        "Email": "vasile.cardos@econ.ubbcluj.ro",
+        "Birou": "226",
+        "Departament": "Contabilitate"
+    },
+    {
+        "Nume": "Moldovan",
+        "Prenume": "Darie",
+        "Titlu": "Lect.univ.dr",
+        "Email": "darie.moldovan@econ.ubbcluj.ro",
+        "Birou": "451",
+        "Departament": "Informatica Economica"
+    },
+    {
+        "Nume": "Mustata",
+        "Prenume": "Razvan",
+        "Titlu": "Conf.univ.dr",
+        "Email": "razvan.mustata@econ.ubbcluj.ro",
+        "Birou": "102",
+        "Departament": "Contabilitate"
+    },
+    {
+        "Nume": "Sitar-Taut",
+        "Prenume": "Dan Andrei",
+        "Titlu": "Conf.univ.dr",
+        "Email": "dan.sitar@econ.ubbcluj.ro",
+        "Birou": "432",
+        "Departament": "Informatica Economica"
+    },
+    {
+        "Nume": "Stanca",
+        "Prenume": "Liana",
+        "Titlu": "Conf.univ.dr",
+        "Email": "liana.stanca@econ.ubbcluj.ro",
+        "Birou": "432",
+        "Departament": "Informatica Economica"
+    },
+    {
+        "Nume": "Chis",
+        "Prenume": "George Sebastian",
+        "Titlu": "Lect.univ.dr",
+        "Email": "george.chis@econ.ubbcluj.ro",
+        "Birou": "437",
+        "Departament": "Informatica Economica"
+    },
+    {
+        "Nume": "Covaci",
+        "Prenume": "Florina",
+        "Titlu": "Lect.univ.dr",
+        "Email": "florina.covaci@econ.ubbcluj.ro",
+        "Birou": "437",
+        "Departament": "Informatica Economica"
+    },
+    {
+        "Nume": "Rusu",
+        "Prenume": "Lucia",
+        "Titlu": "Prof.univ.dr",
+        "Email": "lucia.rusu@econ.ubbcluj.ro",
+        "Birou": "452",
+        "Departament": "Informatica Economica"
+    },
+    {
+        "Nume": "Ghiran",
+        "Prenume": "Ana Maria",
+        "Titlu": "Lect.univ.dr",
+        "Email": "anamaria.ghiran@econ.ubbcluj.ro",
+        "Birou": "437",
+        "Departament": "Informatica Economica"
+    }
+]
